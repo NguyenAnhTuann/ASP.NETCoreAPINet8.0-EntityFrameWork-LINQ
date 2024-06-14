@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\365\\ASP.NETCoreAPINet8.0-EntityFrameWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\365\\ASP.NETCoreAPINet8.0-EntityFrameWork\\Mywebapi\\Controllers\\PerfumesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mywebapi\\Controllers\\PerfumesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\365\\ASP.NETCoreAPINet8.0-EntityFrameWork\\Mywebapi\\Data\\PerfumeContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mywebapi\\Data\\PerfumeContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\365\\ASP.NETCoreAPINet8.0-EntityFrameWork\\Mywebapi\\Data\\Perfume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mywebapi\\Data\\Perfume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\365\\ASP.NETCoreAPINet8.0-EntityFrameWork\\Mywebapi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mywebapi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\365\\ASP.NETCoreAPINet8.0-EntityFrameWork\\Mywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Perfume.cs",
+              "DocumentMoniker": "D:\\365\\ASP.NETCoreAPINet8.0-EntityFrameWork\\Mywebapi\\Data\\Perfume.cs",
+              "RelativeDocumentMoniker": "Mywebapi\\Data\\Perfume.cs",
+              "ToolTip": "D:\\365\\ASP.NETCoreAPINet8.0-EntityFrameWork\\Mywebapi\\Data\\Perfume.cs",
+              "RelativeToolTip": "Mywebapi\\Data\\Perfume.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:16:57.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PerfumesController.cs",
+              "DocumentMoniker": "D:\\365\\ASP.NETCoreAPINet8.0-EntityFrameWork\\Mywebapi\\Controllers\\PerfumesController.cs",
+              "RelativeDocumentMoniker": "Mywebapi\\Controllers\\PerfumesController.cs",
+              "ToolTip": "D:\\365\\ASP.NETCoreAPINet8.0-EntityFrameWork\\Mywebapi\\Controllers\\PerfumesController.cs",
+              "RelativeToolTip": "Mywebapi\\Controllers\\PerfumesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:16:39.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PerfumeContext.cs",
+              "DocumentMoniker": "D:\\365\\ASP.NETCoreAPINet8.0-EntityFrameWork\\Mywebapi\\Data\\PerfumeContext.cs",
+              "RelativeDocumentMoniker": "Mywebapi\\Data\\PerfumeContext.cs",
+              "ToolTip": "D:\\365\\ASP.NETCoreAPINet8.0-EntityFrameWork\\Mywebapi\\Data\\PerfumeContext.cs",
+              "RelativeToolTip": "Mywebapi\\Data\\PerfumeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:16:22.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\365\\ASP.NETCoreAPINet8.0-EntityFrameWork\\Mywebapi\\appsettings.json",
+              "RelativeDocumentMoniker": "Mywebapi\\appsettings.json",
+              "ToolTip": "D:\\365\\ASP.NETCoreAPINet8.0-EntityFrameWork\\Mywebapi\\appsettings.json",
+              "RelativeToolTip": "Mywebapi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T09:42:36.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\365\\ASP.NETCoreAPINet8.0-EntityFrameWork\\Mywebapi\\Program.cs",
+              "RelativeDocumentMoniker": "Mywebapi\\Program.cs",
+              "ToolTip": "D:\\365\\ASP.NETCoreAPINet8.0-EntityFrameWork\\Mywebapi\\Program.cs",
+              "RelativeToolTip": "Mywebapi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:42:21.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

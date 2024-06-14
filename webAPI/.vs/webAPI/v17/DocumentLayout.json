@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\365\\webAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E13609E7-AF1C-41BB-BAFD-552229AC9DEF}|webAPI.csproj|d:\\365\\webapi\\controllers\\loaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13609E7-AF1C-41BB-BAFD-552229AC9DEF}|webAPI.csproj|solutionrelative:controllers\\loaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13609E7-AF1C-41BB-BAFD-552229AC9DEF}|webAPI.csproj|d:\\365\\webapi\\controllers\\nuochoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13609E7-AF1C-41BB-BAFD-552229AC9DEF}|webAPI.csproj|solutionrelative:controllers\\nuochoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13609E7-AF1C-41BB-BAFD-552229AC9DEF}|webAPI.csproj|d:\\365\\webapi\\models\\nuochoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13609E7-AF1C-41BB-BAFD-552229AC9DEF}|webAPI.csproj|solutionrelative:models\\nuochoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13609E7-AF1C-41BB-BAFD-552229AC9DEF}|webAPI.csproj|d:\\365\\webapi\\models\\loaimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13609E7-AF1C-41BB-BAFD-552229AC9DEF}|webAPI.csproj|solutionrelative:models\\loaimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13609E7-AF1C-41BB-BAFD-552229AC9DEF}|webAPI.csproj|d:\\365\\webapi\\data\\nuochoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13609E7-AF1C-41BB-BAFD-552229AC9DEF}|webAPI.csproj|solutionrelative:data\\nuochoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13609E7-AF1C-41BB-BAFD-552229AC9DEF}|webAPI.csproj|d:\\365\\webapi\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13609E7-AF1C-41BB-BAFD-552229AC9DEF}|webAPI.csproj|solutionrelative:data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13609E7-AF1C-41BB-BAFD-552229AC9DEF}|webAPI.csproj|d:\\365\\webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13609E7-AF1C-41BB-BAFD-552229AC9DEF}|webAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13609E7-AF1C-41BB-BAFD-552229AC9DEF}|webAPI.csproj|d:\\365\\webapi\\data\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13609E7-AF1C-41BB-BAFD-552229AC9DEF}|webAPI.csproj|solutionrelative:data\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\365\\webAPI\\Migrations\\20240614103618_AddTblLoai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240614103618_AddTblLoai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13609E7-AF1C-41BB-BAFD-552229AC9DEF}|webAPI.csproj|d:\\365\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13609E7-AF1C-41BB-BAFD-552229AC9DEF}|webAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13609E7-AF1C-41BB-BAFD-552229AC9DEF}|webAPI.csproj|d:\\365\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E13609E7-AF1C-41BB-BAFD-552229AC9DEF}|webAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoaiController.cs",
+              "DocumentMoniker": "D:\\365\\webAPI\\Controllers\\LoaiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoaiController.cs",
+              "ToolTip": "D:\\365\\webAPI\\Controllers\\LoaiController.cs",
+              "RelativeToolTip": "Controllers\\LoaiController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:39:32.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDbcontext.cs",
+              "DocumentMoniker": "D:\\365\\webAPI\\Data\\MyDbcontext.cs",
+              "RelativeDocumentMoniker": "Data\\MyDbcontext.cs",
+              "ToolTip": "D:\\365\\webAPI\\Data\\MyDbcontext.cs",
+              "RelativeToolTip": "Data\\MyDbcontext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:31:53.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NuocHoaController.cs",
+              "DocumentMoniker": "D:\\365\\webAPI\\Controllers\\NuocHoaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NuocHoaController.cs",
+              "ToolTip": "D:\\365\\webAPI\\Controllers\\NuocHoaController.cs",
+              "RelativeToolTip": "Controllers\\NuocHoaController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAFIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:46:51.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NuocHoa.cs",
+              "DocumentMoniker": "D:\\365\\webAPI\\Data\\NuocHoa.cs",
+              "RelativeDocumentMoniker": "Data\\NuocHoa.cs",
+              "ToolTip": "D:\\365\\webAPI\\Data\\NuocHoa.cs",
+              "RelativeToolTip": "Data\\NuocHoa.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:22:08.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoaiModel.cs",
+              "DocumentMoniker": "D:\\365\\webAPI\\Models\\LoaiModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoaiModel.cs",
+              "ToolTip": "D:\\365\\webAPI\\Models\\LoaiModel.cs",
+              "RelativeToolTip": "Models\\LoaiModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:48:49.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NuocHoa.cs",
+              "DocumentMoniker": "D:\\365\\webAPI\\Models\\NuocHoa.cs",
+              "RelativeDocumentMoniker": "Models\\NuocHoa.cs",
+              "ToolTip": "D:\\365\\webAPI\\Models\\NuocHoa.cs",
+              "RelativeToolTip": "Models\\NuocHoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:42:04.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\365\\webAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\365\\webAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:45:15.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Loai.cs",
+              "DocumentMoniker": "D:\\365\\webAPI\\Data\\Loai.cs",
+              "RelativeDocumentMoniker": "Data\\Loai.cs",
+              "ToolTip": "D:\\365\\webAPI\\Data\\Loai.cs",
+              "RelativeToolTip": "Data\\Loai.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:25:18.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240614103618_AddTblLoai.cs",
+              "DocumentMoniker": "D:\\365\\webAPI\\Migrations\\20240614103618_AddTblLoai.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240614103618_AddTblLoai.cs",
+              "ToolTip": "D:\\365\\webAPI\\Migrations\\20240614103618_AddTblLoai.cs",
+              "RelativeToolTip": "Migrations\\20240614103618_AddTblLoai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:36:18.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\365\\webAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\365\\webAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:20:12.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\365\\webAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\365\\webAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T09:32:46.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
